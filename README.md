@@ -26,7 +26,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 ♦ [Tecnologias Utilizadas](#tecnologias-utilizadas) <br />
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
 ♦ [Documentação das Sprints](/documentation)  <br />
-♦ [MVP das Sprints](/MVP)<br />
+♦ [MVP das Sprints](/MVP's)<br />
 
 
 ## Requisitos

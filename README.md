@@ -34,13 +34,28 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 ### Requisitos Funcionais:
 
 | Número do Requisito | Requisito do Parceiro |
-|---------------------|-----------------------|
+| RF01 | O dashboard deve apresentar a distribuição geográfica das empresas em São José dos Campos |
+| RF02 | O dashboard deve permitir a visualização das necessidades e ofertas das empresas |
+| RF03 | O dashboard deve apresentar uma visualização da atuação das empresas em SJC |
+| RF04 | O dashboard deve apresentar as conexões existentes entre as empresas |
+| RF05 | O dashboard deve apresentar uma análise específica do setor aeronáutico |
+| RF06 | O dashboard deve apresentar as empresas categorizadas (as que participam do ecossitema de inovação) |
+| RF07 | O dashboard deve apresentar gráficos interativos|
+| RF08 | O dashboard deve permitir navegação entre diferentes telas |
 
 
 ### Requisitos Não Funcionais:
 
 | Número do Requisito | Requisito do Parceiro |
-|---------------------|-----------------------|
+| RNF01 | O dashboard deve apresentar boa performance na exibição dos dados |
+| RNF02 | O dashboard deve ser intuitivo e de fácil utilização |
+| RNF03 | Os dados apresentados devem ser confiáveis e consistentes |
+| RNF04 | O dashboard deve suportar grande volume de dados |
+| RNF05 | O dashboard deve permitir atualização dos dados |
+| RNF06 | O dashboard deve possuir visualização clara e organizada |
+| RNF07 | O dashboard deve ser compatível com diferentes dispositivos |
+| RNF08 | O dashboard deve apresentar tempo de resposta adequado |
+| RNF09 | O dashboard deve permitir o acesso exclusivo de membros cadastrados no ecossistema |
 
 ## Integrantes do projeto
 

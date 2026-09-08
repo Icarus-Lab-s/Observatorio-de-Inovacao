@@ -58,6 +58,16 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 
 | Rank | Prioridade | ID | User Story | Estimativa (h) | Requisitos do Parceiro |
 |------|------------|----|------------|------------| -----------------------|
+| 1 |ALTA| US-1 |Como cliente, quero visualizar os dados das empresas de São José dos Campos distribuidos na região de São José dos Campos.| 4 | -|
+| 2 |ALTA| US-2 |Como cliente, quero que as empresas exponham suas necessidades e, de forma simultânea, disponibilizem suas ofertas, habilidades e capacidades.| 8 | -----------------------|
+| 3 |ALTA| US-3 |Como cliente, quero identificar de forma detalhada a atuação das empresas por setor, público-alvo, ofertas e demandas.| 7 | -----------------------|
+| 4 |ALTA| US-4 |Como cliente, quero visualizar a distribuição geográfica das empresas em São José dos Campos.| 4 | -----------------------|
+| 5 |ALTA| US-5 |Como cliente, quero visualizar a cadeia de conexões entre as empresas do setor aeronaútico.|------------| -----------------------|
+| 6 |ALTA| US-6 |Como cliente, quero visualizar o mapeamento e catalogação de hubs de inovação e parques tecnológicos.| 10 | -----------------------|
+| 7 |ALTA| US-9 |Como cliente, quero uma visibilidade exclusiva para os membros cadastrados no ecossistema e, posteriormente, a abertura pública global das informações.| 8 | -----------------------|
+| 8 |MÉDIA| US-8 |Como cliente, quero visualizar os selos digitais e certificados de participação no ecossistema de inovação para as empresas cadastradas.| 8 | -----------------------|
+| 9 |MÉDIA| US-9 |Como cliente, quero visualizar gráficos claros e interativos para facilitar a interpretação dos dados.| 6 | -----------------------|
+| 10 |BAIXA| US-10 |Como cliente, quero navegar entre diferentes telas do dashboard para explorar os dados de forma intuitiva| 4 | -----------------------|
 
 
 ## Cronograma do Projeto

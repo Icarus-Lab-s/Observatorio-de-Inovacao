@@ -34,6 +34,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 ### Requisitos Funcionais:
 
 | Número do Requisito | Requisito do Parceiro |
+
 | RF01 | O dashboard deve apresentar a distribuição geográfica das empresas em São José dos Campos |
 | RF02 | O dashboard deve permitir a visualização das necessidades e ofertas das empresas |
 | RF03 | O dashboard deve apresentar uma visualização da atuação das empresas em SJC |
@@ -47,6 +48,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 ### Requisitos Não Funcionais:
 
 | Número do Requisito | Requisito do Parceiro |
+
 | RNF01 | O dashboard deve apresentar boa performance na exibição dos dados |
 | RNF02 | O dashboard deve ser intuitivo e de fácil utilização |
 | RNF03 | Os dados apresentados devem ser confiáveis e consistentes |

@@ -98,7 +98,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 | Sprint Review/Planning |      |      |   🔄   | 
 | [Sprint 3](/documentation/README.md)|      |       |   🔄   | 
 | Sprint review         |    |    |      | 
-| Feira de Soluções     |      |     |     | 
+| Feira de Soluções     | 03/12/2026      | 03/12/2026 |     | 
 
 ## Tecnologias Utilizadas
 <p>

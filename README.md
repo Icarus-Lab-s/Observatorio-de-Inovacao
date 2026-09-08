@@ -123,9 +123,9 @@ Garantir a continuidade e o comprometimento dos membros da equipe no projeto ess
 - A obtenção de certificados dos cursos não é obrigatória, desde que todas as responsabilidades e entregas sejam cumpridas.
 - Será disponibilizado pelo Scrum Masrer o material de apoio para o desenvolvimento do projeto, caso ainda tenha dúvidas busque suporte com a equipe.
 
-### 3. Atualização de Cards no Jira
-- É obrigatório manter os cards atualizados no Jira com informações relevantes sobre o progresso das tarefas.
-- Em caso de dificuldades ou dúvidas sobre o Jira, os membros devem buscar assistência do grupo.
+### 3. Atualização de Cards no Trello
+- É obrigatório manter os cards atualizados no Trello com informações relevantes sobre o progresso das tarefas.
+- Em caso de dificuldades ou dúvidas sobre o Trello, os membros devem buscar assistência do grupo.
 
 ### 4. Comunicação com o Grupo
 - Todos os membros devem manter uma comunicação constante e efetiva com o grupo.

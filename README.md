@@ -96,7 +96,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 | Sprint Review/Planning |      |      |  ✅    |
 | [Sprint 2](/documentation/README.md)| 11/10/2026   | 26/10/2026  | 🔄    | 
 | Sprint Review/Planning |      |      |   🔄   | 
-| [Sprint 3](/documentation/README.md)| 26/10/2026 |   23/11/2026    |   🔄   | 
+| [Sprint 3](/documentation/README.md)| 27/10/2026 |   23/11/2026    |   🔄   | 
 | Sprint review         |    |    |      | 
 | Feira de Soluções     | 03/12/2026      | 03/12/2026 |     | 
 

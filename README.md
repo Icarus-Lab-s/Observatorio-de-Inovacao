@@ -92,11 +92,11 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, visando 
 | Fase                   | Início         | Entrega        | Status  |
 |-----------------------|----------------|-----------------|---------|
 | Kick off do projeto   | 03/09/2026     |       |   ✅   | 
-| [Sprint 1](/documentation/README.md)|     |    |  ✅   | 
-| Sprint Review/Planning |      |      |  🔄    | ✅
-| [Sprint 2](/documentation/README.md)|    | 26/10    | 🔄    | 
+| [Sprint 1](/documentation/README.md)|  04/09/2026   | 26/10/2026  |  ✅   | 
+| Sprint Review/Planning |      |      |  ✅    |
+| [Sprint 2](/documentation/README.md)|    | 26/10/2026  | 🔄    | 
 | Sprint Review/Planning |      |      |   🔄   | 
-| [Sprint 3](/documentation/README.md)| 26/10  |   23/11    |   🔄   | 
+| [Sprint 3](/documentation/README.md)| 26/10/2026 |   23/11/2026    |   🔄   | 
 | Sprint review         |    |    |      | 
 | Feira de Soluções     | 03/12/2026      | 03/12/2026 |     | 
 

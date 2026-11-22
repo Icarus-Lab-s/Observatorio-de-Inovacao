@@ -37,3 +37,5 @@
 | US-9 | Como cliente, quero uma visibilidade exclusiva para os membros cadastrados no ecossistema e, posteriormente, a abertura pública global das informações. | Alta | 8 |
 | US-10 | Como cliente, quero navegar entre diferentes telas do dashboard para explorar os dados de forma intuitiva | Baixa | 3 |
 
+
+[DASHBOARD PUBLICADO](https://app.powerbi.com/view?r=eyJrIjoiMzRjMjJkZjUtMjUxOC00MTFkLWE5ZGYtMjljOGJlYjA1OTlhIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
